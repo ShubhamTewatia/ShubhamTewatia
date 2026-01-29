@@ -1,4 +1,8 @@
-<h1 align="center">Hi, I'm Shubham Tewatia 👋</h1>
+<h1 align="center">
+  Hi, I'm Shubham Tewatia 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AI/ML+Engineer+in+Progress;Building+Human-Centered+AI+Systems;Working+on+Risk+Prediction+AI;Future+Space-Tech+Enthusiast&center=true&width=500&height=45">
