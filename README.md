@@ -1,7 +1,10 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=250&lines=Hi+there" />
-  <span style="font-size:32px; font-weight:bold;"> Shubham Tewatia</span>
+<h1 align="center">
+  Shubham Tewatia 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=200&lines=Hi+there" />
 </p>
 
 <p align="center">
@@ -11,6 +14,7 @@
 <h3 align="center">
   AI/ML Student | Building Intelligent Human-Centered AI Systems
 </h3>
+
 
 
 
