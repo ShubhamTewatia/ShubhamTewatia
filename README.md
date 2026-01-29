@@ -119,7 +119,7 @@ Designed for applications in:
 ### 📈 Why This Project Matters
 This project focuses on **AI that supports human performance**, helping reduce risk and improve reliability in high-stakes environments.
 
-🔗 **Project Repo:** *(add link when ready)*
+🔗 **Project Repo:** **
 
 ---
 
