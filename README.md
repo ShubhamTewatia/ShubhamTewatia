@@ -72,9 +72,7 @@ Human-centered AI • Safety AI • ML research projects • Real-world AI appli
 ![](https://nirzak-streak-stats.vercel.app/?user=ShubhamTewatia&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamTewatia&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShubhamTewatia&theme=radical&no-frame=true&row=1" />
-</p>
+
 
 
 
@@ -82,8 +80,50 @@ Human-centered AI • Safety AI • ML research projects • Real-world AI appli
 
 
 ## 🚀 Featured Project
-**AI-Based Human Readiness & Risk Prediction System**  
-Multimodal AI system for predicting stress, fatigue, and performance risk in high-pressure environments.
+
+### 🧠 AI-Based Human Readiness & Risk Prediction System
+
+> **Multimodal AI system that predicts stress, fatigue, and performance risk in high-pressure environments.**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-System-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Human-Centered-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Risk-Prediction-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Decision-Support-red?style=for-the-badge" />
+</p>
+
+---
+
+### 🎯 What This System Does
+✔ Analyzes physiological + behavioral data  
+✔ Detects fatigue, stress & cognitive decline  
+✔ Generates readiness scores & risk forecasts  
+✔ Supports decision-making in critical environments  
+
+---
+
+### 🛠 Tech Stack
+`Python` • `Machine Learning` • `Time-Series Analysis` • `Signal Processing` • `FastAPI`
+
+---
+
+### 🌍 Real-World Relevance
+Designed for applications in:
+✈️ Aviation & pilot readiness  
+🛰️ Space & astronaut performance  
+🏭 Industrial safety systems  
+🚑 Emergency response environments  
+
+---
+
+### 📈 Why This Project Matters
+This project focuses on **AI that supports human performance**, helping reduce risk and improve reliability in high-stakes environments.
+
+🔗 **Project Repo:** *(add link when ready)*
+
+---
+
+
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
