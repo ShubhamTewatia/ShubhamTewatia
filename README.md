@@ -18,10 +18,35 @@ Focused on AI systems that model human readiness, stress, fatigue, and performan
   <img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp,fastapi,flask,mysql,opencv,git,github,vscode" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer+in+Progress;Building+Human-Centered+AI;Turning+Data+into+Decisions;Future+High-Risk+Systems+AI&center=true&width=500&height=45">
+</p>
+
+## 🧠 About Me
+
+🚀 AI/ML student building intelligent systems that understand **human performance under pressure**
+
+💡 Currently developing an **AI-Based Human Readiness & Risk Prediction System**  
+A multimodal AI system that predicts **stress, fatigue, and performance risk** using physiological + behavioral data.
+
+🛰️ Interested in AI for:
+• Human performance modeling  
+• High-risk decision environments (aviation, space, safety)  
+• Computer vision & time-series intelligence  
+• AI systems that assist humans — not replace them  
+
+🛠 I enjoy turning complex data into **decision-support tools** that improve safety and reliability.
+
+---
+
+### 🌱 Currently Leveling Up In
+`Advanced ML` • `Computer Vision` • `Time-Series Analysis` • `FastAPI` • `AI System Deployment`
+
+### 🤝 Open to Collaborate On
+Human-centered AI • Safety AI • ML research projects • Real-world AI applications
 
 
-# 💫 About Me:
-I ' m Currently working on AI based Human Readiness and Risk  Prediction System  ( A multimodal AI system that predicts stress , fatigue and performance risk in high pressure environment using Physicological and Beavioral data <br><br>I ' m Looking to collaborate on AI/ML Projects related to :<br>       human performance modeling <br>       Computer Vision <br>       Time-series data <br>       safety and decision  support systems<br><br>I ' m looking for help with <br>       Signal processing for physicological data<br>       improving ML model robustness <br>       Deploying AI system as real world applications <br><br>I ' m  Currently learing <br>     Advance Machine learning <br>     Computer Vision <br>     Time series Analysis <br>     FastAPI / Backend for AI system <br><br>Ask me about <br>    AI/ML projects<br>    Human-centered AI<br>    Building practical ML systems<br>    GitHUB Project Workflows<br><br><br>Fun Fact  <br>  I' m working towards combining AI with human performance and safety systems for future high risk environment like aviation and space missions 
+
 
 
 ## 🌐 Socials:
@@ -52,9 +77,7 @@ I ' m Currently working on AI based Human Readiness and Risk  Prediction System 
 </p>
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShubhamTewatia&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
+
 
 
 
