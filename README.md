@@ -3,6 +3,14 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="180">
+</p>
+
+<h3 align="center">
+  AI/ML Student | Building Intelligent Human-Centered AI Systems
+</h3>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AI/ML+Engineer+in+Progress;Building+Human-Centered+AI+Systems;Working+on+Risk+Prediction+AI;Future+Space-Tech+Enthusiast&center=true&width=500&height=45">
