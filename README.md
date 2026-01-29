@@ -3,8 +3,8 @@
 </p>
 
 <h1 align="center">
-  I am Shubham Tewatia 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <strong>I am Shubham Tewatia</strong> 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38">
 </h1>
 
 <p align="center">
@@ -14,6 +14,7 @@
 <h3 align="center">
   AI/ML Student | Building Intelligent Human-Centered AI Systems
 </h3>
+
 
 
 
