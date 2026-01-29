@@ -1,5 +1,10 @@
 <h1 align="center">Hi, I'm Shubham Tewatia 👋</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI/ML+Engineer+in+Progress;Building+Human-Centered+AI+Systems;Working+on+Risk+Prediction+AI;Future+Space-Tech+Enthusiast&center=true&width=500&height=45">
+</p>
+
+
 <h3 align="center">
 AI/ML Student | Building Intelligent Systems for Human Performance, Safety & Decision Support
 </h3>
@@ -9,7 +14,9 @@ Focused on AI systems that model human readiness, stress, fatigue, and performan
 </p>
 
 ### 🛠 Tech Stack
-Python | Machine Learning | Computer Vision | FastAPI | SQL | Data Processing
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,fastapi,flask,mysql,opencv,git,github,vscode" />
+</p>
 
 
 
@@ -33,4 +40,14 @@ I ' m Currently working on AI based Human Readiness and Risk  Prediction System 
 ---
 [![](https://visitcount.itsvg.in/api?id=ShubhamTewatia&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Featured Project
+**AI-Based Human Readiness & Risk Prediction System**  
+Multimodal AI system for predicting stress, fatigue, and performance risk in high-pressure environments.
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+
+
+
