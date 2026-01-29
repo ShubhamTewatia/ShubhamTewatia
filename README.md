@@ -1,3 +1,18 @@
+<h1 align="center">Hi, I'm Shubham Tewatia 👋</h1>
+
+<h3 align="center">
+AI/ML Student | Building Intelligent Systems for Human Performance, Safety & Decision Support
+</h3>
+
+<p align="center">
+Focused on AI systems that model human readiness, stress, fatigue, and performance risk in high-pressure environments.
+</p>
+
+### 🛠 Tech Stack
+Python | Machine Learning | Computer Vision | FastAPI | SQL | Data Processing
+
+
+
 # 💫 About Me:
 I ' m Currently working on AI based Human Readiness and Risk  Prediction System  ( A multimodal AI system that predicts stress , fatigue and performance risk in high pressure environment using Physicological and Beavioral data <br><br>I ' m Looking to collaborate on AI/ML Projects related to :<br>       human performance modeling <br>       Computer Vision <br>       Time-series data <br>       safety and decision  support systems<br><br>I ' m looking for help with <br>       Signal processing for physicological data<br>       improving ML model robustness <br>       Deploying AI system as real world applications <br><br>I ' m  Currently learing <br>     Advance Machine learning <br>     Computer Vision <br>     Time series Analysis <br>     FastAPI / Backend for AI system <br><br>Ask me about <br>    AI/ML projects<br>    Human-centered AI<br>    Building practical ML systems<br>    GitHUB Project Workflows<br><br><br>Fun Fact  <br>  I' m working towards combining AI with human performance and safety systems for future high risk environment like aviation and space missions 
 
