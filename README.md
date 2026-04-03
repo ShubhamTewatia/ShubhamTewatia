@@ -143,7 +143,22 @@ This project focuses on **AI that supports human performance**, helping reduce r
 
 ---
 
-
+## ♻️ Garbage Processing Robot (Waste-to-Energy System)
+---
+### 📌 Overview
+A robotics-based concept focused on converting plastic waste into usable fuel to support sustainable energy generation.
+---
+### ⚙️ Key Features
+- Plastic waste collection and processing system  
+- Conversion of waste into usable oil  
+- Focus on eco-friendly and sustainable solutions  
+---
+### 🏆 Achievements
+- Selected for Envisage Exhibition  
+---
+### 🛠 Skills Used
+Robotics • Problem Solving • Sustainability • Engineering Design
+---
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
