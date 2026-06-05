@@ -25,10 +25,6 @@
 </p>
 
 
-<h3 align="center">
-AI/ML Student | Building Intelligent Systems for Human Performance, Safety & Decision Support
-</h3>
-
 <p align="center">
 Focused on AI systems that model human readiness, stress, fatigue, and performance risk in high-pressure environments.
 </p>
