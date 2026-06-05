@@ -44,8 +44,6 @@ Focused on AI systems that model human readiness, stress, fatigue, and performan
 
 ## 🧠 About Me
 
-## 🧠 About Me
-
 I'm an AI Engineer in Progress focused on building intelligent systems that enhance human decision-making, performance, and safety.
 
 My interests lie at the intersection of:
@@ -101,6 +99,8 @@ Human-centered AI • Safety AI • ML research projects • Real-world AI appli
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Java Spring](https://img.shields.io/badge/Java%20Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 ---
@@ -125,37 +125,193 @@ Human-centered AI • Safety AI • ML research projects • Real-world AI appli
 ## 🚀 Featured Project
 
 
-### AI Assistant Pro
+# 🤖 AI Assistant Pro
 
-A full-featured personal AI assistant built with Python and OpenAI.
+<p align="center">
 
-#### Features
+<img src="https://img.shields.io/badge/Status-Active%20Development-success?style=for-the-badge"/>
 
-✅ Conversational AI
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-✅ Long-Term Memory
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 
-✅ Voice Input & Output
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 
-✅ Image Analysis
+<img src="https://img.shields.io/badge/CustomTkinter-1E90FF?style=for-the-badge"/>
 
-✅ PDF & DOCX Processing
+</p>
 
-✅ Web Search + AI Summaries
+<p align="center">
 
-✅ Weather & News Integration
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Personal+AI+Assistant;Voice+%2B+Vision+%2B+Memory;Web+Search+%2B+Weather+%2B+News;Stocks+%2B+Crypto+Tracking;Built+with+Python+and+OpenAI"/>
 
-✅ Live Stock & Crypto Tracking
+</p>
 
-✅ SQLite Chat History
+---
 
-#### Tech Stack
+## 🚀 Overview
 
-Python • OpenAI • SQLite • CustomTkinter • FastAPI • Machine Learning
+AI Assistant Pro is a full-featured personal AI assistant built with Python and OpenAI.
 
-#### Vision
+The assistant combines conversational AI, memory, voice interaction, image analysis, web search, file processing, weather information, news updates, stock tracking, cryptocurrency monitoring, and local data storage into a single intelligent application.
 
-Building an intelligent assistant that combines memory, reasoning, voice, vision, and real-time information into a single human-centered AI experience.
+---
+
+## 📸 Application Preview
+
+> Add screenshots here after uploading them to your repository.
+
+```markdown
+![Main Window](images/main-ui.png)
+
+![Voice Assistant](images/voice-ui.png)
+
+![Chat Interface](images/chat-ui.png)
+```
+
+---
+
+## ✨ Features
+
+### 🧠 Intelligence
+
+* Long-Term Memory System
+* Persistent Chat History
+* Smart AI Conversations
+* Context-Aware Responses
+
+### 🎤 Voice Features
+
+* Voice Input
+* Voice Output
+* Speech Recognition
+* Text-to-Speech
+
+### 🌐 Information Services
+
+* Web Search
+* AI-Powered Search Summaries
+* Google News Integration
+* Weather Information
+
+### 📈 Market Intelligence
+
+* Live Stock Prices
+* Cryptocurrency Tracking
+* Real-Time Market Data
+
+### 📂 File Processing
+
+* PDF Analysis
+* DOCX Analysis
+* Image Analysis
+* AI-Powered Summaries
+
+### 💾 Data Storage
+
+* SQLite Database
+* Chat History
+* Memory Storage
+* Export to TXT
+* Export to JSON
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,sqlite,git,github,vscode" />
+
+</p>
+
+### Core Technologies
+
+* Python
+* OpenAI API
+* SQLite
+* CustomTkinter
+
+### Libraries
+
+* OpenAI
+* SpeechRecognition
+* PyPDF
+* Python-Docx
+* Requests
+* YFinance
+* Feedparser
+* DuckDuckGo Search
+
+---
+
+## 🎯 Current Capabilities
+
+| Feature         | Status |
+| --------------- | ------ |
+| AI Chat         | ✅      |
+| Memory System   | ✅      |
+| Voice Input     | ✅      |
+| Voice Output    | ✅      |
+| Image Analysis  | ✅      |
+| PDF Processing  | ✅      |
+| DOCX Processing | ✅      |
+| Web Search      | ✅      |
+| Weather         | ✅      |
+| News            | ✅      |
+| Stocks          | ✅      |
+| Crypto          | ✅      |
+| Chat Export     | ✅      |
+
+---
+
+## 🗺 Roadmap
+
+### Phase 1
+
+* [x] AI Chat
+* [x] Voice Assistant
+* [x] Memory System
+* [x] Web Search
+
+### Phase 2
+
+* [x] Weather
+* [x] News
+* [x] Stocks
+* [x] Crypto
+
+### Phase 3
+
+* [ ] Agent Mode
+* [ ] Dashboard
+* [ ] Mobile Version
+* [ ] Web Deployment
+
+---
+
+## 🌟 Vision
+
+The goal of AI Assistant Pro is to create a human-centered AI assistant that combines:
+
+🧠 Memory
+
+🎤 Voice
+
+👁 Vision
+
+🌐 Real-Time Information
+
+🤖 Intelligent Reasoning
+
+into a single personal AI system.
+
+---
+
+## 🔗 Repository
+
+⭐ If you like this project, consider giving it a star.
+
 
 
 
