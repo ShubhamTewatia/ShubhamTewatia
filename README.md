@@ -35,7 +35,7 @@ Focused on AI systems that model human readiness, stress, fatigue, and performan
 
 ### 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp,fastapi,flask,mysql,opencv,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,javaspringboot,c,cpp,fastapi,flask,mysql,opencv,git,github,vscode" />
 </p>
 
 <p align="center">
