@@ -290,10 +290,6 @@ into a single personal AI system.
 
 ---
 
-## 🔗 Repository
-
-⭐ If you like this project, consider giving it a star.
-
 
 
 
