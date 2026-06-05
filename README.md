@@ -153,20 +153,6 @@ The assistant combines conversational AI, memory, voice interaction, image analy
 
 ---
 
-## 📸 Application Preview
-
-> Add screenshots here after uploading them to your repository.
-
-```markdown
-![Main Window](images/main-ui.png)
-
-![Voice Assistant](images/voice-ui.png)
-
-![Chat Interface](images/chat-ui.png)
-```
-
----
-
 ## ✨ Features
 
 ### 🧠 Intelligence
