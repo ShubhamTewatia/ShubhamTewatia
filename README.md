@@ -293,7 +293,7 @@ into a single personal AI system.
 
 
 
-### 🧠 AI-Based Human Readiness & Risk Prediction System
+## 🧠 AI-Based Human Readiness & Risk Prediction System
 
 > **Multimodal AI system that predicts stress, fatigue, and performance risk in high-pressure environments.**
 
