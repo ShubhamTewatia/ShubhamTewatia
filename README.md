@@ -12,7 +12,7 @@
 </p>
 
 <h3 align="center">
-  AI/ML Student | Building Intelligent Human-Centered AI Systems
+  AI Engineer in Progress | Building Human-Centered AI Systems, Intelligent Assistants & Decision-Support Tools
 </h3>
 
 
@@ -35,7 +35,7 @@ Focused on AI systems that model human readiness, stress, fatigue, and performan
 
 ### 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,javaspringboot,c,cpp,fastapi,flask,mysql,opencv,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,spring,javascript,c,cpp,fastapi,flask,mysql,opencv,git,github,vscode" />
 </p>
 
 <p align="center">
@@ -44,18 +44,41 @@ Focused on AI systems that model human readiness, stress, fatigue, and performan
 
 ## 🧠 About Me
 
-🚀 AI/ML student building intelligent systems that understand **human performance under pressure**
+## 🧠 About Me
 
-💡 Currently developing an **AI-Based Human Readiness & Risk Prediction System**  
-A multimodal AI system that predicts **stress, fatigue, and performance risk** using physiological + behavioral data.
+I'm an AI Engineer in Progress focused on building intelligent systems that enhance human decision-making, performance, and safety.
 
-🛰️ Interested in AI for:
-• Human performance modeling  
-• High-risk decision environments (aviation, space, safety)  
-• Computer vision & time-series intelligence  
-• AI systems that assist humans — not replace them  
+My interests lie at the intersection of:
 
-🛠 I enjoy turning complex data into **decision-support tools** that improve safety and reliability.
+* Human-Centered AI
+* Intelligent Assistants
+* Machine Learning
+* Computer Vision
+* Time-Series Intelligence
+* High-Risk Decision Environments
+
+Currently, I am developing:
+
+### 🤖 AI Assistant Pro
+
+A feature-rich AI assistant built with Python that combines:
+
+* Conversational AI
+* Long-Term Memory
+* Voice Interaction
+* Vision AI
+* Web Search
+* Weather, News & Market Data
+* File Analysis
+* Local Knowledge Storage
+
+I am also working on:
+
+### 🧠 AI-Based Human Readiness & Risk Prediction System
+
+A multimodal AI system designed to predict stress, fatigue, and performance risk using physiological and behavioral signals.
+
+My goal is to build AI systems that support people in making better decisions rather than replacing human judgment.
 
 ---
 
@@ -100,6 +123,41 @@ Human-centered AI • Safety AI • ML research projects • Real-world AI appli
 
 
 ## 🚀 Featured Project
+
+
+### AI Assistant Pro
+
+A full-featured personal AI assistant built with Python and OpenAI.
+
+#### Features
+
+✅ Conversational AI
+
+✅ Long-Term Memory
+
+✅ Voice Input & Output
+
+✅ Image Analysis
+
+✅ PDF & DOCX Processing
+
+✅ Web Search + AI Summaries
+
+✅ Weather & News Integration
+
+✅ Live Stock & Crypto Tracking
+
+✅ SQLite Chat History
+
+#### Tech Stack
+
+Python • OpenAI • SQLite • CustomTkinter • FastAPI • Machine Learning
+
+#### Vision
+
+Building an intelligent assistant that combines memory, reasoning, voice, vision, and real-time information into a single human-centered AI experience.
+
+
 
 ### 🧠 AI-Based Human Readiness & Risk Prediction System
 
@@ -164,6 +222,9 @@ Robotics • Problem Solving • Sustainability • Engineering Design
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ShubhamTewatia&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+</p>
 
 
 
