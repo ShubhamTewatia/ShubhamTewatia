@@ -121,6 +121,168 @@ Human-centered AI • Safety AI • ML research projects • Real-world AI appli
 ## 🚀 Featured Project
 
 
+# 💼 Smart HRMS – Employee Attendance & Leave Management System
+
+> **A complete Human Resource Management System built using Spring Boot, Hibernate, Thymeleaf, Bootstrap, and H2 Database.**
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Java-17-orange?style=for-the-badge&logo=openjdk"/>
+
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/H2_Database-003B57?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+
+</p>
+
+---
+
+## 📌 Overview
+
+Smart HRMS is a full-stack Human Resource Management System developed using Java and Spring Boot to simplify employee administration.
+
+The application provides a centralized platform for managing employees, departments, attendance records, leave requests, dashboard analytics, reports, and Excel exports through an intuitive web interface.
+
+The project follows the MVC architecture and demonstrates enterprise Java development using Spring technologies.
+
+---
+
+## ✨ Features
+
+### 👨‍💼 Employee Management
+
+- Add Employees
+- Update Employee Details
+- Delete Employees
+- Search Employees
+- Excel Export
+
+### 🏢 Department Management
+
+- Add Departments
+- Delete Departments
+- Department-wise Employee Mapping
+
+### ⏰ Attendance Management
+
+- Employee Check-In
+- Employee Check-Out
+- Attendance History
+
+### 📝 Leave Management
+
+- Apply Leave
+- Approve Leave
+- Reject Leave
+- Leave Status Tracking
+
+### 📊 Dashboard & Reports
+
+- Employee Statistics
+- Department Statistics
+- Attendance Summary
+- Leave Analytics
+- Interactive Charts
+
+### 📁 Additional Features
+
+- Responsive Bootstrap UI
+- Sidebar Navigation
+- Persistent H2 Database
+- Portable Executable JAR
+- CRUD Operations
+- Search Functionality
+- Excel Export using Apache POI
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,html,css,js,bootstrap,git,github" />
+
+</p>
+
+**Backend**
+
+- Java 17
+- Spring Boot
+- Spring Data JPA
+- Hibernate
+
+**Frontend**
+
+- Thymeleaf
+- Bootstrap 5
+- HTML
+- CSS
+- JavaScript
+
+**Database**
+
+- H2 Embedded Database
+
+**Tools**
+
+- Maven
+- IntelliJ IDEA
+- Git
+- GitHub
+- Apache POI
+
+---
+
+## 🎯 Key Highlights
+
+✔ Full CRUD Operations
+
+✔ Dashboard with Analytics
+
+✔ Employee Search
+
+✔ Attendance Tracking
+
+✔ Leave Approval Workflow
+
+✔ Department Management
+
+✔ Excel Report Export
+
+✔ Portable Executable JAR
+
+✔ Persistent Embedded Database
+
+---
+
+## 📈 Future Improvements
+
+- Spring Security Authentication
+
+- Employee Login Portal
+
+- Payroll Management
+
+- Email Notifications
+
+- Cloud Deployment
+
+- REST API
+
+- Mobile Application
+
+---
+
+🔗 **Repository:** https://github.com/YOUR_USERNAME/Smart-HRMS
+
+
+
 # 🤖 AI Assistant Pro
 
 <p align="center">
