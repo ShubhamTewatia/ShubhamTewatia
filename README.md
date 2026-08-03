@@ -53,20 +53,6 @@ My interests lie at the intersection of:
 
 Currently, I am developing:
 
-### 🤖 AI Assistant Pro
-
-A feature-rich AI assistant built with Python that combines:
-
-* Conversational AI
-* Long-Term Memory
-* Voice Interaction
-* Vision AI
-* Web Search
-* Weather, News & Market Data
-* File Analysis
-* Local Knowledge Storage
-
-I am also working on:
 
 ### 🧠 AI-Based Human Readiness & Risk Prediction System
 
